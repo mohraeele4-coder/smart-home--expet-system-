@@ -1,0 +1,235 @@
+Date: 30/10/2026
+Time: 18:29
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🚨 Gas Leak Detected
+--------------------
+Date: 30/10/2026
+Time: 18:30
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🚨 Gas Leak Detected
+--------------------
+Date: 30/10/2026
+Time: 18:30
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🚨 Gas Leak Detected
+--------------------
+Date: 30/10/2026
+Time: 18:30
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🚨 Gas Leak Detected
+--------------------
+Date: 30/10/2026
+Time: 18:31
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🔥 Fire Detected
+--------------------
+Date: 30/10/2026
+Time: 18:31
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🔥 Fire Detected
+--------------------
+Date: 30/10/2026
+Time: 18:32
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🔥 Fire Detected
+--------------------
+Date: 30/10/2026
+Time: 18:32
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🔥 Fire Detected
+--------------------
+Date: 30/10/2026
+Time: 18:32
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🔥 Fire Detected
+--------------------
+Date: 30/10/2026
+Time: 18:33
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🔥 Fire Detected
+--------------------
+Date: 30/10/2026
+Time: 18:33
+Phone Number: +01224730825
+Message: EMERGENCY in Smart Home: 🔥 Fire Detected
+--------------------
+Date: 30/10/2026
+Time: 18:50
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: 🚗 Garage Door is Open
+--------------------
+Date: 30/10/2026
+Time: 18:50
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: 🚗 Garage Door is Open
+--------------------
+Date: 30/10/2026
+Time: 18:55
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: 🚨 Gas Leak Detected
+--------------------
+Date: 30/10/2026
+Time: 18:55
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: 🚨 Gas Leak Detected
+--------------------
+Date: 30/10/2026
+Time: 21:36
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 30/10/2026
+Time: 21:36
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 30/10/2026
+Time: 21:39
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 30/10/2026
+Time: 22:14
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 30/10/2026
+Time: 22:14
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 30/10/2026
+Time: 22:24
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 17:6
+Phone Number: +2001224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 19:45
+Phone Number: +0201224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 2/11/2026
+Time: 19:46
+Phone Number: +0201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 19:47
+Phone Number: +0201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 19:47
+Phone Number: +0201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 19:49
+Phone Number: +0201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 19:55
+Phone Number: +0201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 20:2
+Phone Number: +021224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 20:2
+Phone Number: +021224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 21:13
+Phone Number: +021224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 2/11/2026
+Time: 21:21
+Phone Number: +021224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 2/11/2026
+Time: 21:32
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 2/11/2026
+Time: 21:34
+Phone Number: +201226216212
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 21:35
+Phone Number: +201226216212
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 22:8
+Phone Number: +201226216212
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 2/11/2026
+Time: 22:8
+Phone Number: +201226216212
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 3/11/2026
+Time: 5:30
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 3/11/2026
+Time: 5:31
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 3/11/2026
+Time: 5:42
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 3/11/2026
+Time: 5:43
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 3/11/2026
+Time: 18:59
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 3/11/2026
+Time: 19:0
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 3/11/2026
+Time: 21:41
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Gas Leak
+--------------------
+Date: 3/11/2026
+Time: 21:42
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 4/11/2026
+Time: 10:23
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
+Date: 4/11/2026
+Time: 10:36
+Phone Number: +201224730825
+Message: EMERGENCY in Smart Home: Fire
+--------------------
